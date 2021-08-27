@@ -1,0 +1,11 @@
+{
+  "name": "randomnumber",
+  "version": "1.0.0",
+  "description": "This Package is used to get random number and can directly call random method too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshat Shah",
+  "license": "ISC"
+}
