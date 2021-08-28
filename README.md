@@ -4,4 +4,4 @@ This Repository is for an random Number Generation without using the math librar
 
 ## For The Installation of the NPM Package
 
-npm i @akshat04/randomnumber
+npm i @akshat04/randomnumbergenerator
